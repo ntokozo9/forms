@@ -1,0 +1,26 @@
+header{color: black;
+    font-style: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+
+
+}
+form{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    width: 400px;
+    
+}
+body {background-color: blanchedalmond;
+}
+.btnregister{
+    margin: 10px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+.btnregister:hover {
+    background-color: lightblue;
+}
